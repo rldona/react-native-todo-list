@@ -4,8 +4,8 @@ import notes from './notesReducer';
 
 const rootReducer = combineReducers({
   notes,
-  // otherReducer,
-  // otherReducer,
+  // reducer2,
+  // reducer3,
 });
 
 export default rootReducer;
